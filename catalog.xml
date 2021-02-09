@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/StudentRegistrySoap/StudentRegistryService?WSDL" uri="xml-resources/web-service-references/StudentRegistryService/wsdl/localhost_8080/StudentRegistrySoap/StudentRegistryService.wsdl"/>
+    <system systemId="http://localhost:8080/StudentRegistrySoap/StudentRegistryService?xsd=1" uri="xml-resources/web-service-references/StudentRegistryService/wsdl/localhost_8080/StudentRegistrySoap/StudentRegistryService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ws-textbook-ex03-studentRegistrySoap/StudentRegistryService?WSDL" uri="xml-resources/web-service-references/StudentRegistryService/wsdl/localhost_8080/ws-textbook-ex03-studentRegistrySoap/StudentRegistryService.wsdl"/>
+    <system systemId="http://localhost:8080/ws-textbook-ex03-studentRegistrySoap/StudentRegistryService?xsd=1" uri="xml-resources/web-service-references/StudentRegistryService/wsdl/localhost_8080/ws-textbook-ex03-studentRegistrySoap/StudentRegistryService.xsd_1.xsd"/>
+</catalog>
